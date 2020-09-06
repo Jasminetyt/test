@@ -116,6 +116,9 @@
     </findStrings>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -179,6 +182,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1107" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -301,7 +305,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4934037" visible="true" weight="0.33387226" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4934037" visible="true" weight="0.33387226" />
       <window_info id="Favorites" order="1" sideWeight="0.50233644" side_tool="true" weight="0.3581245" />
       <window_info id="Structure" order="2" sideWeight="0.5065963" weight="0.27405012" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,7 +317,7 @@
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" weight="0.32978722" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4888889" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.22820038" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004042" side_tool="true" weight="0.28333333" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.32962963" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
