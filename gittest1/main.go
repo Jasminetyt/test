@@ -4,8 +4,8 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("test1")
-	fmt.Println("test2")
-	fmt.Println("tets3")
+	fmt.Println("test4")
+	fmt.Println("test5")
+	fmt.Println("tets6")
 
 }
